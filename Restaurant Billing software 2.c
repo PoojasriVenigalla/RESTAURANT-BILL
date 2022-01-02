@@ -42,7 +42,7 @@ int main()
 void printMeals()
 {
 
-      printf("\20*******************  WELCOME TO ABC RESTURANT **************************\20\n");
+      printf("\20*******************  WELCOME TO SRM RESTURANT **************************\20\n");
       printf(" \t\t\t Below is the menue:\20\n");
       printf(" \t\t\t MEALS\t\t\tPRICE:\n");
       printf(" \t\t\t \22*******************************\22\n");
